@@ -1,0 +1,7 @@
+shift right click - move cursor 
+shift s - cursor menu 
+shift a - add object 
+alt click into scale menu  to scale multiple object 
+g - move 
+r - rotate
+s - scale
